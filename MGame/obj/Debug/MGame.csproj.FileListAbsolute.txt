@@ -1,9 +1,0 @@
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\bin\Debug\MGame.exe.config
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\bin\Debug\MGame.exe
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\bin\Debug\MGame.pdb
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\obj\Debug\MGame.csprojResolveAssemblyReference.cache
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\obj\Debug\MGame.Properties.Resources.resources
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\obj\Debug\MGame.csproj.GenerateResource.Cache
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\obj\Debug\MGame.exe
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\obj\Debug\MGame.pdb
-c:\users\gtm\documents\visual studio 2015\Projects\MGame\MGame\obj\Debug\MGame.Form1.resources
